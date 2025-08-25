@@ -1,0 +1,7 @@
+{
+  "/api/processos/route": "app/api/processos/route.js",
+  "/page": "app/page.js",
+  "/processos/importar/page": "app/processos/importar/page.js",
+  "/processos/novo/page": "app/processos/novo/page.js",
+  "/processos/page": "app/processos/page.js"
+}
